@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1757473443 source:c:\programando en c++\arquitectua de computacion\algoritmodemultiplicacion\main.cpp
+	<iostream>
+	<bitset>
+	<iomanip>
+	<string>
+	<cmath>
+	<sstream>
+
